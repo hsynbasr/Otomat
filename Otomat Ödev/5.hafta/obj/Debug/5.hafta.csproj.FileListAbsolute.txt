@@ -1,0 +1,16 @@
+C:\Users\HB\source\repos\5.hafta\5.hafta\bin\Debug\5.hafta.exe.config
+C:\Users\HB\source\repos\5.hafta\5.hafta\bin\Debug\5.hafta.exe
+C:\Users\HB\source\repos\5.hafta\5.hafta\bin\Debug\5.hafta.pdb
+C:\Users\HB\source\repos\5.hafta\5.hafta\obj\Debug\5.hafta.csproj.AssemblyReference.cache
+C:\Users\HB\source\repos\5.hafta\5.hafta\obj\Debug\5.hafta.csproj.SuggestedBindingRedirects.cache
+C:\Users\HB\source\repos\5.hafta\5.hafta\obj\Debug\5.hafta.csproj.CoreCompileInputs.cache
+C:\Users\HB\source\repos\5.hafta\5.hafta\obj\Debug\5.hafta.exe
+C:\Users\HB\source\repos\5.hafta\5.hafta\obj\Debug\5.hafta.pdb
+C:\Users\HB\source\repos\5.hafta_ödev_HüseyinBaşer\5.hafta\obj\Debug\5.hafta.csproj.AssemblyReference.cache
+C:\Users\HB\source\repos\5.hafta_ödev_HüseyinBaşer\5.hafta\obj\Debug\5.hafta.csproj.SuggestedBindingRedirects.cache
+C:\Users\HB\source\repos\5.hafta_ödev_HüseyinBaşer\5.hafta\obj\Debug\5.hafta.csproj.CoreCompileInputs.cache
+C:\Users\HB\source\repos\5.hafta_ödev_HüseyinBaşer\5.hafta\obj\Debug\5.hafta.exe
+C:\Users\HB\source\repos\5.hafta_ödev_HüseyinBaşer\5.hafta\obj\Debug\5.hafta.pdb
+C:\Users\HB\source\repos\5.hafta_ödev_HüseyinBaşer\5.hafta\bin\Debug\5.hafta.exe.config
+C:\Users\HB\source\repos\5.hafta_ödev_HüseyinBaşer\5.hafta\bin\Debug\5.hafta.exe
+C:\Users\HB\source\repos\5.hafta_ödev_HüseyinBaşer\5.hafta\bin\Debug\5.hafta.pdb
